@@ -1,0 +1,1 @@
+#ok so essentialy you run the code the newest one in .vscode which is game4 in this case and you either click the notifaction that says open in browser for port 8000 or go into ports and click the link for port 8000 to see the game
